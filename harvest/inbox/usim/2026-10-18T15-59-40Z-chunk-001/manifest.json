@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "usim",
+  "source_name": "Perpustakaan Universiti Sains Islam Malaysia",
+  "source_base_url": "https://library.usim.edu.my/",
+  "terms_url": "https://library.usim.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "usim-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T15-59-40Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T16:15:34.852Z",
+  "finished_at": "2026-10-18T16:15:34.852Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/usim; contact@pustakaterbuka.org)",
+  "notes": "USIM harvest completed. Total: 0 records."
+}
